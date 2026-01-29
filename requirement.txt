@@ -1,0 +1,6 @@
+crewai==0.51.1
+crewai[tools]
+langchain-ollama
+pydantic
+fastapi
+uvicorn
